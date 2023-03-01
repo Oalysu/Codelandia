@@ -1,3 +1,3 @@
-##Desafios da comunidade codelandia do discord
+# Desafios da comunidade codelandia do discord
 
-##Codelandia discord community challenges
+# Codelandia discord community challenges
